@@ -1,6 +1,6 @@
 # AMOC Box Model
 
-[![CI](https://github.com/ritaberrada/amoc-box-model/actions/workflows/ci.yml/badge.svg)](https://github.com/ritaberrada/amoc-box-model/actions)
+[![CI](https://github.com/rita-berrada/amoc-box-model/actions/workflows/ci.yml/badge.svg)](https://github.com/rita-berrada/amoc-box-model/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
@@ -100,7 +100,7 @@ amoc-box-model/
 ## Installation
 
 ```bash
-git clone https://github.com/ritaberrada/amoc-box-model.git
+git clone https://github.com/rita-berrada/amoc-box-model.git
 cd amoc-box-model
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
@@ -202,7 +202,7 @@ If you use this model in your work, please cite:
   author = {Berrada, Rita},
   title  = {{AMOC Box Model}: A Stommel-type thermohaline circulation model},
   year   = {2025},
-  url    = {https://github.com/ritaberrada/amoc-box-model},
+  url    = {https://github.com/rita-berrada/amoc-box-model},
   note   = {Developed at CentraleSupélec Modelling Week, January 2025}
 }
 ```

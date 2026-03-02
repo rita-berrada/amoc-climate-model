@@ -53,9 +53,9 @@ notebook = [
 ]
 
 [project.urls]
-Homepage   = "https://github.com/ritaberrada/amoc-box-model"
-Repository = "https://github.com/ritaberrada/amoc-box-model"
-Issues     = "https://github.com/ritaberrada/amoc-box-model/issues"
+Homepage   = "https://github.com/rita-berrada/amoc-box-model"
+Repository = "https://github.com/rita-berrada/amoc-box-model"
+Issues     = "https://github.com/rita-berrada/amoc-box-model/issues"
 
 [tool.setuptools.packages.find]
 include = ["amoc*"]
