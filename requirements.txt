@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.11
+xarray>=2024.1
+matplotlib>=3.8
+cartopy>=0.22
+jupyter>=1.0
