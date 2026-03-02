@@ -193,22 +193,6 @@ The stochastic AMOC trajectory in (T₁, T₂, S₁) space compared to the canon
 
 ---
 
-## Citation
-
-If you use this model in your work, please cite:
-
-```bibtex
-@misc{berrada2025amoc,
-  author = {Berrada, Rita},
-  title  = {{AMOC Box Model}: A Stommel-type thermohaline circulation model},
-  year   = {2025},
-  url    = {https://github.com/rita-berrada/amoc-box-model},
-  note   = {Developed at CentraleSupélec Modelling Week, January 2025}
-}
-```
-
----
-
 ## References
 
 1. Stommel, H. (1961). *Thermohaline convection with two stable regimes of flow.* Tellus, 13(2), 224–230.
